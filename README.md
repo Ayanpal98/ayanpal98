@@ -45,12 +45,21 @@ We represented Tripura's startup ecosystem at the **India AI Impact Summit 2026*
 
 ---
 
-🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayanpal98/Ayanpal98/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayanpal98/Ayanpal98/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ayanpal98/Ayanpal98/output/github-contribution-grid-snake.svg" />
-</picture>
+## 📈 Contribution Activity
+
+[![Ayan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayanpal98&theme=github-compact&hide_border=true&area=true)](https://github.com/Ayanpal98)
+
+---
+
+## 🔨 Currently Shipping
+
+- 🟡 **StartupLens** — fixing cross-tier data consistency, hardening report quality
+- 🟡 **EduManage ERP** — closing first 10 school licenses across Tripura
+- 🟡 **Green-to-Gold** — documenting Unakoti pilot, prepping 8-district 2027 expansion
+- 🔵 **IntelliFinance** — full-stack build in progress (Node + React + Neon + Claude API)
+- 🔵 **telehealth-connect-saas** — infrastructure layer in development
+
+---
 
 ## 🤝 Connect
 
