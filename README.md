@@ -96,7 +96,7 @@ We represented Tripura's startup ecosystem at the **India AI Impact Summit 2026*
 
 ## 🤝 Connect
 
-- 🌐 [ATSFy Ecosystem](https://infoatsfyecosystem.netlify.app/)
+- 🌐 [ATSFy Ecosystem](https://atsfy-info.netlify.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/ayanpal98)
 - 📧 Reach me via LinkedIn DM (async preferred)
 
