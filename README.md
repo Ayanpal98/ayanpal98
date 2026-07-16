@@ -4,6 +4,8 @@
 
 I'm a farmer-turned-founder running a portfolio of 9 interconnected AI startups under **ATSFy Technologies**, registered under the Tripura Startup Policy 2024. Everything here is bootstrapped, shipped by hand, and built to solve real problems for real people.
 
+https://atsfy.tech/
+
 ---
 
 ## 🏗️ What I'm Building
